@@ -15,6 +15,6 @@ This application is created with:
 To run this application, building the source locally using git:
 
 ```
-$ git clone https://github.com/sumuongit/duplicate-numbers.git
+$ git clone https://github.com/sumuongit/bubble-sort-algorithm.git
 
 ```
