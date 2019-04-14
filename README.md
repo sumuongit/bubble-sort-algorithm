@@ -6,7 +6,7 @@
 ## General info
 This application sorts a given set of numbers following bubble sort algorithm
 
->**Bubble sort algorithm** starts from the beginning of the list, compare every adjacent pair, swap their position if they are not in the >right order. After each iteration, one less element is needed to be compared until there are no more elements left to be compared.
+>**Bubble sort algorithm** starts from the beginning of the list, compare every adjacent pair, swap their position if they are not in the right order. After each iteration, one less element is needed to be compared until there are no more elements left to be compared.
 	
 ## Technologies
 This application is created with:
