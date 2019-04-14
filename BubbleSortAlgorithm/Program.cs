@@ -15,7 +15,9 @@ namespace BubbleSortAlgorithm
         {
             for (int i = 0; i < numArray.Count(); i++)
             {
-                for (int j = 0; j < numArray.Count() - 1; j++)
+                //AFTER EACH ITERATION ONE LESS ELEMENT IS NEEDED TO BE COMPAREED
+                //FOR THIS REASON -i IS ADDED AS FOLLOWS
+                for (int j = 0; j < numArray.Count() - 1 - i; j++)
                 {
                     if (numArray[j] > numArray[j + 1])
                     {
