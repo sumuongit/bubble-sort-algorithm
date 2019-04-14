@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [License](#license)
 
 ## General info
 This application sorts a given set of numbers following bubble sort algorithm
@@ -20,3 +21,6 @@ To run this application, building the source locally using git:
 $ git clone https://github.com/sumuongit/bubble-sort-algorithm.git
 
 ```
+
+## License
+[MIT License](https://github.com/sumuongit/bubble-sort-algorithm/blob/master/LICENSE)
