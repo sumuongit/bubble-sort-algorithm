@@ -25,7 +25,7 @@ Let us see the first phase of execution of the **Bubble sort algorithm** on the 
 #### 1   3    5    18    22    30   7    11   8    12   2   `37   50`  41   15&nbsp;&nbsp;&nbsp;`No Exchange`<br/>
 #### 1   3    5    18    22    30   7    11   8    12   2    37  `50   41`  15&nbsp;&nbsp;&nbsp;`Exchange`<br/>
 #### 1   3    5    18    22    30   7    11   8    12   2    37   41  `50   15`&nbsp;&nbsp;&nbsp;`Exchange`<br/>
-#### 1   3    5    18    22    30   7    11   8    12   2    37   41   15   50&nbsp;&nbsp;&nbsp;&nbsp; `50 in place after first phase`
+#### 1   3    5    18    22    30   7    11   8    12   2    37   41   15   50&nbsp;&nbsp;&nbsp;`50 in place after first phase`
 
 ## Technologies
 This application is created with:
