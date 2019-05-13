@@ -36,8 +36,12 @@ namespace BubbleSortAlgorithm
         {
             BubbleSort bs = new BubbleSort();
             int[] sortArray = bs.DoSort();
+            Console.WriteLine("An array of unsorted numbers is as follows:");
+            Console.WriteLine("===========================================");
+            Console.WriteLine("1, 5, 3, 18, 30, 22, 37, 7, 11, 8, 12, 2, 50, 41, 15");
+            Console.WriteLine();
             Console.WriteLine("The sorted numbers are as follows:");
-            Console.WriteLine("==================================");
+            Console.WriteLine("==================================");           
             for (int i = 0; i < sortArray.Count(); i++)
             {
                 Console.Write("{0} ", sortArray[i]);

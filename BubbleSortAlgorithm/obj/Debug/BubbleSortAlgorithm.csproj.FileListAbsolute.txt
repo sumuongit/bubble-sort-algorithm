@@ -1,6 +1,0 @@
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\BubbleSortAlgorithm.exe.config
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\BubbleSortAlgorithm.exe
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\BubbleSortAlgorithm.pdb
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\BubbleSortAlgorithm.csprojResolveAssemblyReference.cache
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\BubbleSortAlgorithm.exe
-c:\users\sumon\documents\visual studio 2013\Projects\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\BubbleSortAlgorithm.pdb
