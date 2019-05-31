@@ -13,13 +13,12 @@ namespace BubbleSortAlgorithm
         {
             for (int i = 0; i < numArray.Count(); i++)
             {
-                //AFTER EACH ITERATION ONE LESS ELEMENT IS NEEDED TO BE COMPAREED
-                //FOR THIS REASON -i IS ADDED AS FOLLOWS
+                // After each iteration one less element is needed to be compared and for this reason -i is added as follows.
                 for (int j = 0; j < numArray.Count() - 1 - i; j++)
                 {
                     if (numArray[j] > numArray[j + 1])
                     {
-                        //SWAPPING THE VALUES
+                        // Swapping the values
                         temp = numArray[j];
                         numArray[j] = numArray[j + 1];
                         numArray[j + 1] = temp;
@@ -46,6 +45,7 @@ namespace BubbleSortAlgorithm
             {
                 Console.Write("{0} ", sortArray[i]);
             }
+
             Console.ReadLine();
         }
     }
