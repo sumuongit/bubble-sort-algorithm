@@ -18,7 +18,7 @@ namespace BubbleSortAlgorithm
                 {
                     if (numArray[j] > numArray[j + 1])
                     {
-                        // Swapping the values
+                        // Swapping the values as follows.
                         temp = numArray[j];
                         numArray[j] = numArray[j + 1];
                         numArray[j + 1] = temp;
